@@ -4,7 +4,7 @@
 
 # Discord Webhooks Tools
 
-Alat untuk Webhook Discord
+Tools for Discord Webhooks, Please do not misuse it, thank you.
 
 
 ## Screenshots
